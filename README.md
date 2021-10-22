@@ -1,5 +1,5 @@
 # DCIM_Tiktok
-仿抖音相册视频播放器，支持上下滑动轮播，基于饺子播放器(JZVideo,https://github.com/Jzvd/JZVideo)，精简和添加了相册视频文件索引
+仿抖音相册视频播放器，支持上下滑动轮播，基于饺子播放器(JZVideo,https://github.com/Jzvd/JZVideo) 精简和添加了相册视频文件索引
 
 图标没有设计，默认的安卓样子
 
